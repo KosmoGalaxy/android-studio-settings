@@ -64,6 +64,7 @@
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
     <option name="INDENT_CLASS_MEMBERS" value="2" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
+    <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="2" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="KEEP_NESTED_NAMESPACES_IN_ONE_LINE" value="true" />
     <option name="NAMESPACE_BRACE_PLACEMENT" value="5" />
