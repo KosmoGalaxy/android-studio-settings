@@ -69,8 +69,9 @@
     <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="2" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="KEEP_NESTED_NAMESPACES_IN_ONE_LINE" value="true" />
-    <option name="NAMESPACE_BRACE_PLACEMENT" value="5" />
-    <option name="FUNCTION_BRACE_PLACEMENT" value="5" />
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
     <option name="SPACE_BEFORE_NAMESPACE_LBRACE" value="false" />
     <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
@@ -84,6 +85,10 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
@@ -98,7 +103,7 @@
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="5" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
